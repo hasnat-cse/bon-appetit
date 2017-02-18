@@ -1,0 +1,228 @@
+
+
+#for_all_report
+{
+width:60%;
+margin-left:auto;
+margin-right:auto;
+margin-top:30px;
+
+}
+
+#for_all_report1
+{
+width:100%;
+border:1px solid black;
+border-radius: 7px 7px 7px 7px ;
+margin-bottom:15px;
+
+}
+
+#main_con
+{
+width:100%;
+display:inline-block;
+margin-top:25px;
+margin-bottom:10px;
+
+}
+#main_con1
+{
+width:74%;
+float:left;
+
+}
+#main_con2
+{
+width:26%;
+float:left;
+}
+
+
+#report_info
+{
+margin-left:20px;
+margin-top:10px;
+width:100%;
+font-weight:bold;
+
+text-align:left;
+}
+
+p.report_name
+{
+font-size:21px;
+color:#0B615E;
+}
+
+p.report_date
+{
+font-size:14px;
+}
+
+img.like
+{
+width:60px;
+height:22px;
+margin-left:520px;
+}
+img.dislike
+{
+width:60px;
+height:22px;
+margin-left:20px;
+}
+
+#for_search
+{
+width:100%;
+margin-top:60px;
+height:25px;
+text-align:center;
+font-weight:bold;
+margin-bottom:36px;
+}
+
+p.for_search
+{
+font-size:17px;
+}
+
+select.thana
+{
+margin-top:7px;
+width:160px;
+height:27px;
+border:1px solid black;
+}
+
+#for_delete
+{
+width:6%;
+margin-left:94%;
+margin-top:8px;
+height:27px;
+}
+
+img.edit1
+{
+width:24px;
+height:24px;
+border:2px solid black;
+border-radius: 13px 13px 13px 13px ;
+}
+
+img.edit1:hover
+{
+	width:26px;
+	height:26px;
+border:2px solid black;
+border-radius: 14px 14px 14px 14px ;
+}
+
+
+#quit
+{
+width:100%;
+margin-top:15px;
+border-top:2px solid  black;
+border-bottom:2px solid  black;
+
+	border-radius: 7px 7px 7px 7px ;
+	background-color:#E0ECF8;
+	
+	margin-bottom:10px;
+	
+	display:none;
+}
+
+#for_con
+{
+	margin-top:30px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	font-weight:bold;
+}
+
+p.con
+{
+font-size:20px;
+}
+
+#con_but
+{
+margin-top:20px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	font-weight:bold;
+	margin-bottom:30px;
+}
+button.but1
+{
+	border:2px solid black;
+	width:80px;
+	height:26px;
+	background:#0B173B;
+	font-weight:bold;
+	color:white;
+	margin-right:25px;
+	border-radius: 6px 6px 6px 6px ;
+	text-align:center;
+}
+
+button.but1:hover
+{
+	background:#0A122A;
+}
+
+button.but2
+{
+	border:2px solid black;
+	width:80px;
+	height:26px;
+	background:#0B173B;
+	font-weight:bold;
+	color:white;
+
+	border-radius: 6px 6px 6px 6px ;
+	text-align:center;
+}
+
+button.but2:hover
+{
+	background:#0A122A;
+}
+
+
+#for_search1
+{
+width:100%;
+margin-top:45px;
+height:25px;
+text-align:center;
+font-weight:bold;
+margin-bottom:36px;
+}
+
+#norow1
+{
+width:80%;
+height:22px;
+margin-left:auto;
+margin-right:auto;
+background-color:#E0ECF8;
+margin-top:35px;
+text-align:center;
+font-weight:bold;
+}
+
+
+img.user1
+{
+width:120px;
+height:130px;
+border:1px solid black;
+border-radius:5px 5px 5px 5px;
+}

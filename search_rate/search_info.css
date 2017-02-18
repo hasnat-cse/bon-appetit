@@ -1,0 +1,56 @@
+#info
+{
+    position: relative;
+    width:auto;
+    height:auto;
+    margin-left:10%;
+    margin-right:auto;
+}
+#data
+{
+    position:absolute;
+    width:auto;
+    height:auto;
+    margin-left:40%;
+    margin-top:5%;
+    margin-right:auto;
+    text-align: left;
+    font-size: 20px;
+}
+#data table{
+	border-collapse: collapse;
+}
+#data td,th{
+    boarder :2px solid grey;
+    padding: 6px;
+}
+#data td:first-child{
+    color: #275420;
+}
+#data td:last-child{
+    color: #FF11F1;
+}
+.img
+{		
+	position: absolute; /* So we can absolute the .items */
+	overflow: hidden;
+	margin:10px;
+	border:2px solid black;
+	border-radius: 15px 15px 15px 15px ;
+	color:black;
+	background-color: #EFF2FB;								
+}
+#links
+{
+    position:absolute;
+    width:auto;
+    height:auto;
+    margin-left:15%;
+    margin-top:28%;
+    margin-right:auto;
+    font-size: 20px;
+}
+#links a{
+  margin-bottom: 4px; 
+  font-size: 17px;
+}

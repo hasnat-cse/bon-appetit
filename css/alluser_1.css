@@ -1,0 +1,201 @@
+#login_form
+{
+position: relative;
+width:800px;
+height:400px;
+margin-left:15%;
+/*margin-top: 10%;*/
+margin-right:auto;
+text-align: center;
+}
+
+#login_form_2
+{
+position: relative;
+width:800px;
+height:400px;
+margin-left:15%;
+/*margin-top: 10%;*/
+margin-right:auto;
+text-align: center;
+}
+
+#login_form_follow
+{
+    margin-left: 30%;
+}
+
+#login_form_follow input
+{
+    position: relative;
+    background-color: green;
+    color: white;
+    text-align: center;
+    height: 30px;
+    margin-left: 60%;
+
+}
+
+#login_form_follow form
+{
+    margin-left: 50%;
+    
+}
+
+#login_form table{
+	border-collapse: collapse;
+}
+#login_form td,th{
+    boarder :2px solid grey;
+    padding: 4px;
+}
+#login_form h1
+{
+    text-align: center;
+    color:  	#4169E1;
+    margin-right: 50px;
+    /*padding-left: 30px;*/
+   
+}
+#login_form_2 h1
+{
+    text-align: center;
+    color:      #4169E1;
+    margin-right: 50px;
+    /*padding-left: 30px;*/
+   
+}
+#login_form h2
+{
+    text-align: center;
+    color:  	white;
+   
+}
+#login_form h3
+{
+    text-align: left;
+    color:  	white;
+   
+}
+#login_form_2 h4
+{
+    text-align: right;
+    color:  	white;
+   
+}
+#login_form fieldset
+{    
+    padding: 30px;
+    padding-left: 20%;
+    margin: 10px;
+    border: 20px black;
+    display: block;
+    border-width: 5px 5px 5px;
+    border-radius: 20px;
+}
+#login_form legend
+{
+    display: block;
+    width: 60%;
+    height: 50%;
+    padding: 20px;    
+    margin-bottom: 20px;
+    margin-right: 100%; 
+    padding-top: 30px;   
+    font-size: 21px;
+    line-height: 10px;
+    color: white;
+    border-width: 3px 3px 3px;
+    border-style: solid solid solid;
+}
+#login_form  form
+{
+    margin-right: 5%;
+}
+#login_form button
+{
+    color: black;    
+    margin-left: 60px;
+}
+#login_form a
+{
+    /*margin-left: 20px;    */
+}
+#login_form input
+{
+    height: 25px;
+    margin-left: 30px;    
+    text-align: left;
+    /*padding-top: 8px;    */
+}
+.ticker
+{		
+	position: absolute; /* So we can absolute the .items */	
+	height: 200px;
+	width:200px;
+	overflow: hidden;
+	margin:10px;
+	border:2px solid black;
+	border-radius: 15px 15px 15px 15px ;
+	color:black;
+	background-color: #EFF2FB;								
+} 
+#edit_ticker
+{       
+    position: absolute; /* So we can absolute the .items */ 
+    height: 200px;
+    width:200px;   
+    overflow: hidden;    
+    margin:10px;
+    margin-top: 18%;
+    border:2px solid black;
+    border-radius: 15px 15px 15px 15px ;
+    color:black;
+    background-color: #EFF2FB;                              
+}
+#login_form_3
+{
+    position: relative;
+    text-align: left;       
+    margin-top: 35%;
+    padding-left: 2%;
+    margin-right: 5px;
+    padding-right: 2%;
+    width: 25%;
+} 
+#login_form_3 input
+{
+    position: relative;        
+    text-align: center;
+    height: 25px;
+    width: 48%;
+    color: black;
+/*    padding-right: 10px;*/
+
+}
+#login_form_data
+{
+position:absolute;
+width:500px;
+height:400px;
+margin-left:30%;
+margin-right:auto;
+text-align: center; 
+}
+#login_form_head
+{
+    position: absolute;
+    width: 30%;    
+    line-height: 0px;
+    margin-left: 30%; 
+    padding-top: 15px;  
+    margin-top: 10%;      
+}
+#login_form_tail
+{
+    position: absolute;
+    width: 70%;
+    margin-left: 40%;
+    margin-right: auto; 
+    margin-top: 10%;   
+}
